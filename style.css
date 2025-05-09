@@ -119,7 +119,7 @@ button:hover {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: var(--Grey-900);
+  background-color: hsl(212, 20%, 25%);
   height: 38px;
   width: 38px;
   border-radius: 50%;
